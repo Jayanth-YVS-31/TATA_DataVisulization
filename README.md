@@ -5,4 +5,4 @@ This job simulation, provided by TATA, involves creating data visualizations bas
 In this simulation, I:
 - Completed a simulation involving creating data visualizations for Tata Consultancy Services.
 - Prepared questions for a meeting with client senior leadership.
-- Created visuals for data analysis to help executives make effective decisions."
+- Created visuals for data analysis to help executives make effective decisions.
